@@ -51,7 +51,7 @@ Here's a walkthrough of implemented user stories:
     </a>
   </div>
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom and Imagi
+GIF created with Loom and Imgur
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
