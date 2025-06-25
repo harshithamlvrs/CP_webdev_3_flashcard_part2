@@ -41,7 +41,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 <div>
     <a href="https://www.loom.com/share/720daf2a6a98465eb731afb37f46b7cb">
       <p>Loom Message - 24 June 2025 - Watch Video</p>
@@ -50,6 +49,8 @@ Here's a walkthrough of implemented user stories:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/720daf2a6a98465eb731afb37f46b7cb-6aeb4f025e78f40f-full-play.gif">
     </a>
   </div>
+
+Imgur: https://imgur.com/a/ayxURUg 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom and Imgur
 <!-- Recommended tools:
